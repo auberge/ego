@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="egologin:war">
+    <output-path>$PROJECT_DIR$/egoparent/ego-login/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>egologin</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ego-login.war">
+      <element id="artifact" artifact-name="egologin:war exploded" />
+    </root>
+  </artifact>
+</component>

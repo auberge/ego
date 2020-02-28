@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/egoparent/ego-cart/egocart.iml" filepath="$PROJECT_DIR$/egoparent/ego-cart/egocart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoparent/ego-commons/egocommons.iml" filepath="$PROJECT_DIR$/egoparent/ego-commons/egocommons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoparent/ego-item/egoitem.iml" filepath="$PROJECT_DIR$/egoparent/ego-item/egoitem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoparent/ego-manage/egomanage.iml" filepath="$PROJECT_DIR$/egoparent/ego-manage/egomanage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoparent/ego-order/egoorder.iml" filepath="$PROJECT_DIR$/egoparent/ego-order/egoorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoparent/egoparent.iml" filepath="$PROJECT_DIR$/egoparent/egoparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoparent/ego-pojo/egopojo.iml" filepath="$PROJECT_DIR$/egoparent/ego-pojo/egopojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoparent/ego-portal/egoportal.iml" filepath="$PROJECT_DIR$/egoparent/ego-portal/egoportal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoparent/ego-redis/egoredis.iml" filepath="$PROJECT_DIR$/egoparent/ego-redis/egoredis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoparent/ego-search/egosearch.iml" filepath="$PROJECT_DIR$/egoparent/ego-search/egosearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoparent/ego-service/egoservice.iml" filepath="$PROJECT_DIR$/egoparent/ego-service/egoservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoparent/ego-service-impl/egoserviceimpl.iml" filepath="$PROJECT_DIR$/egoparent/ego-service-impl/egoserviceimpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egoparent/ego-sign/egosign.iml" filepath="$PROJECT_DIR$/egoparent/ego-sign/egosign.iml" />
+    </modules>
+  </component>
+</project>

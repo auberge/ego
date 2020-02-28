@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="egopassportlogin:war exploded">
+    <output-path>$PROJECT_DIR$/egoparent/ego-passport-login/target/ego-passport-login</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>egopassportlogin</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="egopassport" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/egoparent/ego-passport/target/ego-passport-login/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="egopassport/web/Web" />
+    </root>
+  </artifact>
+</component>

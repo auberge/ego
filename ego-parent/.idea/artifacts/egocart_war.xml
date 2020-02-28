@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="egocart:war">
+    <output-path>$PROJECT_DIR$/egoparent/ego-cart/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>egocart</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ego-cart-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="egocart:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="900ed29b-869b-433f-8292-81b146949b6d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Server/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\Server\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1Thr6cIbBVaUKyvGd6TkG383EWk" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/egoparent/ego-order/src/main/webapp/WEB-INF" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39443743" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ego.order.interceptor" />
+      <recent name="com.ego.commons.pojo" />
+      <recent name="com.ego.item.pojo" />
+      <recent name="com.ego.item.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\sxt\ego\ego-parent\egoparent\ego-order\src\main\webapp\WEB-INF" />
+      <recent name="D:\Java\sxt\ego\ego-parent\egoparent\ego-order\src\main\resources" />
+      <recent name="D:\Java\sxt\ego\ego-parent\egoparent\ego-cat\src\main\webapp\WEB-INF" />
+      <recent name="D:\Java\sxt\ego\ego-parent\egoparent\ego-cat\src\main\resources" />
+      <recent name="D:\Java\sxt\ego\ego-parent\egoparent\ego-commons\src\main\java\com\ego\commons\pojo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="FtpUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ego.commons.utils.FtpUtil" />
+      <module name="egocommons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ego.commons.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ego.test.Test" />
+      <module name="egoserviceimpl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ego.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.FtpUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="900ed29b-869b-433f-8292-81b146949b6d" name="Default Changelist" comment="" />
+      <created>1573922993792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573922993792</updated>
+      <workItem from="1573922997218" duration="3588000" />
+      <workItem from="1573978362222" duration="693000" />
+      <workItem from="1574264372271" duration="2323000" />
+      <workItem from="1574309740500" duration="22383000" />
+      <workItem from="1574396194986" duration="25874000" />
+      <workItem from="1574489946155" duration="17720000" />
+      <workItem from="1574573809259" duration="7640000" />
+      <workItem from="1574600649988" duration="60000" />
+      <workItem from="1574769282923" duration="1155000" />
+      <workItem from="1574819438805" duration="17846000" />
+      <workItem from="1575013024589" duration="1152000" />
+      <workItem from="1575120336393" duration="3151000" />
+      <workItem from="1575124543537" duration="1179000" />
+      <workItem from="1575130926629" duration="694000" />
+      <workItem from="1575190442675" duration="2466000" />
+      <workItem from="1575194710148" duration="1192000" />
+      <workItem from="1575266768391" duration="58000" />
+      <workItem from="1575807514573" duration="3972000" />
+      <workItem from="1575902534085" duration="3118000" />
+      <workItem from="1576242379868" duration="84000" />
+      <workItem from="1576305278674" duration="28750000" />
+      <workItem from="1576378778563" duration="21415000" />
+      <workItem from="1576422630737" duration="1164000" />
+      <workItem from="1576489296010" duration="6000" />
+      <workItem from="1576498570793" duration="2713000" />
+      <workItem from="1576502726064" duration="36000" />
+      <workItem from="1576502803582" duration="2421000" />
+      <workItem from="1576505276055" duration="8068000" />
+      <workItem from="1576551358256" duration="4358000" />
+      <workItem from="1576561705192" duration="15508000" />
+      <workItem from="1576591770343" duration="3489000" />
+      <workItem from="1576651954584" duration="10481000" />
+      <workItem from="1576670706362" duration="4730000" />
+      <workItem from="1576830848173" duration="9257000" />
+      <workItem from="1576914396417" duration="568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

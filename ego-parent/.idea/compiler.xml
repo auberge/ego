@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="egoitem" />
+        <module name="egocart" />
+        <module name="egosearch" />
+        <module name="egopojo" />
+        <module name="egoredis" />
+        <module name="egomanage" />
+        <module name="egoorder" />
+        <module name="egoportal" />
+        <module name="egocommons" />
+        <module name="egosign" />
+        <module name="egoserviceimpl" />
+        <module name="egoservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="egocart" target="1.8" />
+      <module name="egocommons" target="1.8" />
+      <module name="egoitem" target="1.8" />
+      <module name="egologin" target="1.8" />
+      <module name="egomanage" target="1.8" />
+      <module name="egoorder" target="1.8" />
+      <module name="egoparent" target="1.8" />
+      <module name="egopassport" target="1.8" />
+      <module name="egopojo" target="1.8" />
+      <module name="egoportal" target="1.8" />
+      <module name="egoredis" target="1.8" />
+      <module name="egosearch" target="1.8" />
+      <module name="egoservice" target="1.8" />
+      <module name="egoserviceimpl" target="1.8" />
+      <module name="egosign" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
